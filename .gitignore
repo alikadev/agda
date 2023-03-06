@@ -1,0 +1,4 @@
+.DS_Store
+*.o
+./agda
+.git/info/exclude
